@@ -1,0 +1,3 @@
+# Work with pointers #
+
+In this repo I show my work with pointers. Namely: Binary tree, linked list....
