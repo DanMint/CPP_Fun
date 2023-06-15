@@ -3,6 +3,8 @@
 
 using namespace std;
 
+/// remember type a = *new type; is not good. It causes memory leaks and can cause problems.
+
 int main()
 {
     int a = 9;
