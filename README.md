@@ -1,3 +1,3 @@
 # Work with pointers #
 
-In this repo I show my work with pointers. Namely: Binary tree, linked list....
+In this repo I post C++ code. Namely, C++ basic and C++ things for future projects.
