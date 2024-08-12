@@ -63,5 +63,7 @@ int main() {
     pop(&myS);
     pop(&myS);
 
+    delete my.A;
+
     return 0;
 }
